@@ -1,7 +1,7 @@
 # 💫 Hi, It's Me — Sarathi!!  
 
 <!-- Banner -->
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/mrsarathi-00/mrsarathi-00/blob/main/Banner.png" alt="Sarathi GitHub Banner" width="100%">
 </p>
 
