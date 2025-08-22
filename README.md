@@ -13,7 +13,7 @@
 
 ---
 ## Quotes :
- #### " Live as you like, No matter  what  other felt."
+ #### " Live as you like, No matter  what  other's felt."
  ---
  
 ## 🌐 Connect with Me  
