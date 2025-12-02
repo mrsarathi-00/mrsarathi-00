@@ -44,7 +44,7 @@
 
 ## 📁 Projects
 
-[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome)](https://github.com/mrsarathi-00/Personal_Portfolio)
+[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome)]([https://github.com/mrsarathi-00/Personal_Portfolio](https://mrsarathi-00.github.io/Personal_Portfolio/))
 
 [![Feedback Management System](https://img.shields.io/badge/Feedback%20Management%20System-App-blue?style=for-the-badge&logo=android)](https://github.com/mrsarathi-00/Feedback_Management_System)
 
