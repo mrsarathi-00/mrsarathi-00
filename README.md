@@ -41,11 +41,15 @@
 
 
 ---
+
 ## 📁 Projects
 
-[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome)](https://github.com/mrsarathi-00/Personal-Portfolio)  
-[![Feedback Management System](https://img.shields.io/badge/Feedback%20Management%20System-App-blue?style=for-the-badge&logo=android)](https://github.com/mrsarathi-00/Feedback-Management-System)  
-[![Typing Speed Tester](https://img.shields.io/badge/Typing%20Speed%20Tester-Game-green?style=for-the-badge&logo=keyboard)](https://github.com/mrsarathi-00/Typing-Speed-Test)
+[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome)](https://github.com/mrsarathi-00/Personal_Portfolio)
+
+[![Feedback Management System](https://img.shields.io/badge/Feedback%20Management%20System-App-blue?style=for-the-badge&logo=android)](https://github.com/mrsarathi-00/Feedback_Management_System)
+
+[![Typing Speed Tester](https://img.shields.io/badge/Typing%20Speed%20Tester-Game-green?style=for-the-badge&logo=keyboard)](https://github.com/mrsarathi-00/Typing_Speed_Test)
+
 
 
 ---
