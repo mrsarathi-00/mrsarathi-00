@@ -41,12 +41,11 @@
 
 
 ---
-
 ## 📁 Projects
 
-[![Netflix Dashboard](https://img.shields.io/badge/Netflix%20Dashboard-PowerBI-red?style=for-the-badge&logo=netflix)](https://github.com/mrsarathi-00/Netflix-Dashboard)  
-[![IPL Stats](https://img.shields.io/badge/IPL%20Stats-Cricket-blue?style=for-the-badge&logo=cricket)](https://github.com/mrsarathi-00/IPL-Stats)  
-[![Flappy Bird Game](https://img.shields.io/badge/Flappy%20Bird-Game-green?style=for-the-badge&logo=codeforces)](https://github.com/mrsarathi-00/flappy_bird)
+[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome)](https://github.com/mrsarathi-00/Personal-Portfolio)  
+[![Feedback Management System](https://img.shields.io/badge/Feedback%20Management%20System-App-blue?style=for-the-badge&logo=android)](https://github.com/mrsarathi-00/Feedback-Management-System)  
+[![Typing Speed Tester](https://img.shields.io/badge/Typing%20Speed%20Tester-Game-green?style=for-the-badge&logo=keyboard)](https://github.com/mrsarathi-00/Typing-Speed-Test)
 
 
 ---
